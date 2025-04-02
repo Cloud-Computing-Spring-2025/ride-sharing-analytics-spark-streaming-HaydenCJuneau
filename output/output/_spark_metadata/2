@@ -1,0 +1,2 @@
+v1
+{"path":"file:///opt/bitnami/spark/Rideshare/output/part-00000-a5213b53-d020-431b-8dbe-5c7ce64d4f28-c000.csv","size":44,"isDir":false,"modificationTime":1743561320698,"blockReplication":1,"blockSize":33554432,"action":"add"}
